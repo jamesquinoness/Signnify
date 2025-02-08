@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Signnify</string>
+    <string name="tap_to_verify">Tap to verify</string>
+    <string name="signnify">Signnify\n</string>
+</resources>
